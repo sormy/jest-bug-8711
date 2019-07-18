@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/jest": "^24.0.15",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "babel-jest": "^24.8.0",
+    "create-react-context": "^0.3.0",
+    "jest": "^24.8.0",
+    "jest-environment-jsdom-thirteen": "^1.0.1",
+    "jsdom": "^13.2.0",
+    "prop-type": "0.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^0.14.9",
+    "react-dom": "^0.14.9",
+    "test-lib": "./lib",
+    "typescript": "^3.5.3"
+  }
+}
