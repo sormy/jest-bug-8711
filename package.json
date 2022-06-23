@@ -16,7 +16,7 @@
     "create-react-context": "^0.3.0",
     "jest": "^24.8.0",
     "jest-environment-jsdom-thirteen": "^1.0.1",
-    "jsdom": "^13.2.0",
+    "jsdom": "^16.5.0",
     "prop-type": "0.0.1",
     "prop-types": "^15.7.2",
     "react": "^0.14.9",
